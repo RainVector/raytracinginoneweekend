@@ -12,4 +12,7 @@ What's more, using CMake to generate projects is convenient.
 All of the code in this repo are tested by myself. 
 
 # Notes
-I use `rand()` function to generate random numbers rather than `drand48()`.
+1. I use `rand()` function to generate random numbers rather than `drand48()`.
+2. I found an great [Online PPM image Viewer][1]
+
+[1]:http://paulcuth.me.uk/netpbm-viewer/

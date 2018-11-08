@@ -1,0 +1,2 @@
+add_executable(Chapter1_output_an_image
+	output_an_image.cpp)

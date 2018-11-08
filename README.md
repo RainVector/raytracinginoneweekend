@@ -13,6 +13,6 @@ All of the code in this repo are tested by myself.
 
 # Notes
 1. I use `rand()` function to generate random numbers rather than `drand48()`.
-2. I found an great [Online PPM image Viewer][1]
+2. I found a great [Online PPM Image Viewer][1]
 
 [1]:http://paulcuth.me.uk/netpbm-viewer/
